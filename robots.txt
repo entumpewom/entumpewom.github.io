@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entumpewom.github.io/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/app/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/assets/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/css/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/includes/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/item/sitemap.html.gz
+Sitemap: https://entumpewom.github.io/src/sitemap.html.gz
